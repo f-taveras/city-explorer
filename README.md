@@ -1,8 +1,26 @@
-# React + Vite
+# Lab6
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Author**: Felix A. tAveras
+**Version**: 1.0.0 
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This apllication display the Map for any location given
+
+## Getting Started
+
+>npm install
+>npm run dev
+
+## Architecture
+
+* The application is build using React Vite@latest
+* Uses a LocationQ's Map and Location API
+* Libraries:
+    - React-if
+
+## Change Log
+
+12/6/2023 - Application now has a fully-functional Map and search bar to input the city -->
+
+[LightHouse Report](lighthouse.png)
